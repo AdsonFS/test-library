@@ -2,6 +2,7 @@
   "name": "test-package",
   "version": "1.0.0",
   "main": "dist/index.js",
+  "module": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
@@ -12,7 +13,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/telerobotika/unitylab-ui.git"
+		"url": "git+https://github.com/AdsonFS/test-library.git"
 	},
   "author": "",
   "license": "ISC",

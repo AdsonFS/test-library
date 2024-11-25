@@ -1,6 +1,6 @@
 {
   "name": "@adsonfs/test-package",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -17,7 +17,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com-adsonfs/AdsonFS/test-library.git"
+		"url": "git+https://github.com/AdsonFS/test-library.git"
 	},
   "author": "",
   "license": "ISC",
